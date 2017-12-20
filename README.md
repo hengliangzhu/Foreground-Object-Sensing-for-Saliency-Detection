@@ -8,5 +8,4 @@ The Compressed package is our results, you can also downlaod from the link：
 http://pan.baidu.com/s/1i5Leos9, 
 password：p4zd.
 
-Source code coming soon...
 
